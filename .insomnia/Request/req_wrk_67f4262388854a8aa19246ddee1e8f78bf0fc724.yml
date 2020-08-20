@@ -1,0 +1,22 @@
+_id: req_wrk_67f4262388854a8aa19246ddee1e8f78bf0fc724
+authentication: {}
+body:
+  mimeType: application/x-www-form-urlencoded; charset=utf-8
+created: 1597945627793
+description: ""
+headers: []
+isPrivate: false
+metaSortKey: -1597945627793
+method: POST
+modified: 1597947278970
+name: Log in
+parameters: []
+parentId: wrk_67f4262388854a8aa19246ddee1e8f78
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingFollowRedirects: global
+settingRebuildPath: true
+settingSendCookies: true
+settingStoreCookies: true
+type: Request
+url: "{{ base_url }}/login"

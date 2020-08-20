@@ -1,0 +1,21 @@
+_id: req_wrk_67f4262388854a8aa19246ddee1e8f78a3df695c
+authentication: {}
+body: {}
+created: 1597945627777
+description: ""
+headers: []
+isPrivate: false
+metaSortKey: -1597945627777
+method: GET
+modified: 1597947278963
+name: Get departments
+parameters: []
+parentId: wrk_67f4262388854a8aa19246ddee1e8f78
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingFollowRedirects: global
+settingRebuildPath: true
+settingSendCookies: true
+settingStoreCookies: true
+type: Request
+url: "{{ base_url }}/departments"

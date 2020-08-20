@@ -1,0 +1,21 @@
+_id: req_wrk_67f4262388854a8aa19246ddee1e8f782a3349ae
+authentication: {}
+body: {}
+created: 1597945627772
+description: ""
+headers: []
+isPrivate: false
+metaSortKey: -1597945627773
+method: PUT
+modified: 1597947278953
+name: Edit the name of an existing department
+parameters: []
+parentId: wrk_67f4262388854a8aa19246ddee1e8f78
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingFollowRedirects: global
+settingRebuildPath: true
+settingSendCookies: true
+settingStoreCookies: true
+type: Request
+url: "{{ base_url }}/departments"

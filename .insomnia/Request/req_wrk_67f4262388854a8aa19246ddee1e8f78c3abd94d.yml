@@ -1,0 +1,21 @@
+_id: req_wrk_67f4262388854a8aa19246ddee1e8f78c3abd94d
+authentication: {}
+body: {}
+created: 1597945627789
+description: ""
+headers: []
+isPrivate: false
+metaSortKey: -1597945627789
+method: POST
+modified: 1597947278966
+name: Log out
+parameters: []
+parentId: wrk_67f4262388854a8aa19246ddee1e8f78
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingFollowRedirects: global
+settingRebuildPath: true
+settingSendCookies: true
+settingStoreCookies: true
+type: Request
+url: "{{ base_url }}/logout"
